@@ -1,6 +1,9 @@
-# matplotlib-challenge 
+<h1> Pymaceuticals <br> (A Demonstration of Matplotlib Visualizations in Data Analysis) </h1>
 
-This repository contains my solutions to Data Analytics Bootcamp Homework Assignment #5.
+This Jupyter notebook (pymaceuticals.ipynb) analyzes a fictitious cancer treatment drug study. It first merges and cleans the raw data
+contained in two CSV files. It then tabulates several statistics using Pandas and then illustrates further analyses using Matplotlib.
+
+To examine the code and data files, their locations are indicated in the tree below:
 
 #### Folders/Files:
 
@@ -10,11 +13,11 @@ This repository contains my solutions to Data Analytics Bootcamp Homework Assign
 >	- *"Mouse_metadata.csv"* (input data file) <br>
 > 	- *"Study_results.csv"* (input data file) <br>
 	
-#### Note: <br>
+(Please do not move, rename, delete, or alter!)
 
-The notebook script relies on relative path referencing to the input files *"Mouse_metadata.csv"*<br>
-and *"Study_results.csv"* in subfolder **"data"**.  These items should not be deleted, moved, or renamed. <br>
+#### Code Samples: <br>
 
-#### Submitted by: <br>
- Ricardo G. Mora, Jr.  10/16/2021
- 
+<img src="Images/CodeSnip1.jpg"> <br>
+<img src="Images/CodeSnip2.jpg"> <br>
+<img src="Images/CodeSnip3.jpg"> <br>
+<img src="Images/CodeSnip4.jpg"> <br>
